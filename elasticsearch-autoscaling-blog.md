@@ -184,3 +184,6 @@ Automation like this not only reduces operational toil but also improves cluster
 In future iterations, this approach can be extended to:
 Integrate with Instana dashboards for visibility.
 Add alert-based triggers via Prometheus/Alertmanager, even Instana based alerting.
+
+## 🧾 Blog link 
+https://medium.com/ibm-cloud/elasticsearch-autoscaling-with-ansible-and-jenkins-19e1fef7c811
